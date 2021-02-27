@@ -4,6 +4,8 @@
 **Overview:**\
 This chat web-based application was created for postgraduate exams.
 
+**Access Link for Slack Application https://react-slack-fddc2.web.app/**
+
 **Tools used**:
 1. Visual Studio Code
 2. Firebase (Google User Authentication - Real-Time Database)
