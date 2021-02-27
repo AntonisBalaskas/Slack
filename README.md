@@ -2,7 +2,7 @@
 # Slack-Application
 
 **Overview:**\
-This chat web-based application was created for postgraduate exams.
+Real-time database chat application created for postgraduate exams.
 
 **Access Link for Slack Application https://react-slack-fddc2.web.app/**
 
