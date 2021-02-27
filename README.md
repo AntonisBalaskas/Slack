@@ -1,3 +1,20 @@
+# Slack-Application
+
+**Overview:**\
+This chat web-based application was created for postgraduate exams.
+
+**Tools used**:
+1. Visual Studio Code
+2. Firebase (Google User Authentication - Real-Time Database)
+3. React JS
+4. React Context API (Redux)
+5. React Router
+6. Material UI (Icons)
+7. CSS Variables
+8. Flexbox
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
