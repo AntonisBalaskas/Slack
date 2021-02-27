@@ -14,7 +14,7 @@ This chat web-based application was created for postgraduate exams.
 7. CSS Variables
 8. Flexbox
 
-![1](https://user-images.githubusercontent.com/75641530/109393596-6598cf00-792b-11eb-8295-bbc888e17025.jpg)
+![1](https://user-images.githubusercontent.com/75641530/109393676-ccb68380-792b-11eb-8bb7-b11cd29b7b75.jpg)
 ![2](https://user-images.githubusercontent.com/75641530/109393610-6f223700-792b-11eb-87f5-146bf123ee92.jpg)
 
 
