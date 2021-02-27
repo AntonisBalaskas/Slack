@@ -30,7 +30,6 @@ function Login() {
                 alt=""
             />
             <h1>Sign in to Slack Application</h1>
-            <p>AntonisBalaskas</p>
             <Button onClick={signIn}>Sign In with Google</Button>
         </div>
     </div>
